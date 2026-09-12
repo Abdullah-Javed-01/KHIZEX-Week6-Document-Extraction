@@ -1,0 +1,26 @@
+{
+  "documents": 8,
+  "mean_raw_ocr_confidence": 93.48659560797118,
+  "mean_processed_ocr_confidence": 96.00349801436332,
+  "mean_raw_CER": 0.0922192744756056,
+  "mean_processed_CER": 0.07745113093045594,
+  "mean_raw_WER": 0.1382255551000693,
+  "mean_processed_WER": 0.0884439360055811,
+  "macro_extraction_precision": 0.9791666666666666,
+  "macro_extraction_recall": 0.9791666666666666,
+  "macro_extraction_f1": 0.9791666666666666,
+  "extractive_mean_rougeL": 0.25991843857630526,
+  "field_aware_mean_rougeL": 0.9836859937773559,
+  "extractive_mean_completeness": 0.35416666666666663,
+  "field_aware_mean_completeness": 0.9375,
+  "extractive_hallucination_rate": 0.0,
+  "field_aware_hallucination_rate": 0.125,
+  "documents_per_minute": 17.244119077539008,
+  "mean_seconds_per_document": 3.479447093250002,
+  "bottleneck": "ocr_seconds",
+  "stage_seconds_total": {
+    "ocr_seconds": 27.80821256200005,
+    "extraction_seconds": 0.02599330999993299,
+    "summarization_seconds": 0.0013708740000311082
+  }
+}

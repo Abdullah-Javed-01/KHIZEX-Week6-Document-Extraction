@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="480" viewBox="0 0 900 480">
+<rect width="100%" height="100%" fill="white"/>
+<text x="450" y="24" text-anchor="middle" font-family="Arial" font-size="20" font-weight="bold">OCR Confidence: Raw vs Processed</text>
+<line x1="80" y1="400.0" x2="870" y2="400.0" stroke="#dddddd"/>
+<text x="70" y="405.0" text-anchor="end" font-family="Arial" font-size="12">60</text>
+<line x1="80" y1="310.0" x2="870" y2="310.0" stroke="#dddddd"/>
+<text x="70" y="315.0" text-anchor="end" font-family="Arial" font-size="12">70</text>
+<line x1="80" y1="220.0" x2="870" y2="220.0" stroke="#dddddd"/>
+<text x="70" y="225.0" text-anchor="end" font-family="Arial" font-size="12">80</text>
+<line x1="80" y1="130.0" x2="870" y2="130.0" stroke="#dddddd"/>
+<text x="70" y="135.0" text-anchor="end" font-family="Arial" font-size="12">90</text>
+<line x1="80" y1="40.0" x2="870" y2="40.0" stroke="#dddddd"/>
+<text x="70" y="45.0" text-anchor="end" font-family="Arial" font-size="12">100</text>
+<line x1="80" y1="40" x2="80" y2="400" stroke="black"/>
+<line x1="80" y1="400" x2="870" y2="400" stroke="black"/>
+<rect x="100.3" y="73.3" width="27.7" height="326.7" fill="#6b7280"/>
+<rect x="130.8" y="75.7" width="27.7" height="324.3" fill="#2563eb"/>
+<text x="129.4" y="420" text-anchor="middle" font-family="Arial" font-size="12">C01</text>
+<rect x="199.1" y="72.0" width="27.7" height="328.0" fill="#6b7280"/>
+<rect x="229.5" y="74.4" width="27.7" height="325.6" fill="#2563eb"/>
+<text x="228.1" y="420" text-anchor="middle" font-family="Arial" font-size="12">C02</text>
+<rect x="297.8" y="72.0" width="27.7" height="328.0" fill="#6b7280"/>
+<rect x="328.3" y="75.4" width="27.7" height="324.6" fill="#2563eb"/>
+<text x="326.9" y="420" text-anchor="middle" font-family="Arial" font-size="12">C03</text>
+<rect x="396.6" y="72.3" width="27.7" height="327.7" fill="#6b7280"/>
+<rect x="427.0" y="82.3" width="27.7" height="317.7" fill="#2563eb"/>
+<text x="425.6" y="420" text-anchor="middle" font-family="Arial" font-size="12">C04</text>
+<rect x="495.3" y="72.2" width="27.7" height="327.8" fill="#6b7280"/>
+<rect x="525.8" y="73.1" width="27.7" height="326.9" fill="#2563eb"/>
+<text x="524.4" y="420" text-anchor="middle" font-family="Arial" font-size="12">C05</text>
+<rect x="594.1" y="283.0" width="27.7" height="117.0" fill="#6b7280"/>
+<rect x="624.5" y="74.2" width="27.7" height="325.8" fill="#2563eb"/>
+<text x="623.1" y="420" text-anchor="middle" font-family="Arial" font-size="12">C06</text>
+<rect x="692.8" y="72.3" width="27.7" height="327.7" fill="#6b7280"/>
+<rect x="723.3" y="75.5" width="27.7" height="324.5" fill="#2563eb"/>
+<text x="721.9" y="420" text-anchor="middle" font-family="Arial" font-size="12">C07</text>
+<rect x="791.6" y="71.9" width="27.7" height="328.1" fill="#6b7280"/>
+<rect x="822.0" y="77.2" width="27.7" height="322.8" fill="#2563eb"/>
+<text x="820.6" y="420" text-anchor="middle" font-family="Arial" font-size="12">C08</text>
+<text x="20" y="220.0" transform="rotate(-90 20 220.0)" text-anchor="middle" font-family="Arial" font-size="13">OCR confidence (%)</text>
+<rect x="650" y="52" width="14" height="14" fill="#6b7280"/><text x="670" y="64" font-family="Arial" font-size="12">Raw</text>
+<rect x="730" y="52" width="14" height="14" fill="#2563eb"/><text x="750" y="64" font-family="Arial" font-size="12">Processed</text>
+</svg>

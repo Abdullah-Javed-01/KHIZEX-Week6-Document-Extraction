@@ -33,3 +33,7 @@ dist/
 
 # Optional locally cached model artifacts
 models/cache/
+
+# Reproducible/generated image artifacts
+data/scans/*.png
+results/*_preprocessed.png
